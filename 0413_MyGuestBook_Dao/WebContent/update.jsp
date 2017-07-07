@@ -31,7 +31,7 @@
 </head>
 <body>
 	<div align="center">
-		<h2>방명록 : 수정화면</h2>
+		<h2>방명록 : 수정화면입니다!</h2>
 		<hr />
 		<p>[<a href="list.jsp">목록으로 이동</a>]</p>
 		<form method="post">
