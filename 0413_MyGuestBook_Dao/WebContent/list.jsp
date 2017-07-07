@@ -19,7 +19,7 @@
 <body>
     <% List<VO> list = DAO.getList(); %>
 	<div align="center">
-		<h2>방명록</h2>
+		<h2>방명록!</h2>
 		<hr />
 		<p>[<a href="write.jsp"> 방명록쓰기 </a>]</p>
 		<table>
